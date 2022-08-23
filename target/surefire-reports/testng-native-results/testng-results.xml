@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-03T20:56:58 IST" name="Surefire suite" finished-at="2022-08-03T20:56:58 IST" duration-ms="122">
+    <groups>
+    </groups>
+    <test started-at="2022-08-03T20:56:58 IST" name="Surefire test" finished-at="2022-08-03T20:56:58 IST" duration-ms="122">
+      <class name="Selemvn.MavenP2.S2Test">
+        <test-method signature="Browseratm2()[pri:0, instance:Selemvn.MavenP2.S2Test@75f32542]" started-at="2022-08-03T20:56:58 IST" name="Browseratm2" finished-at="2022-08-03T20:56:58 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browseratm2 -->
+        <test-method signature="elementUi2()[pri:0, instance:Selemvn.MavenP2.S2Test@75f32542]" started-at="2022-08-03T20:56:58 IST" name="elementUi2" finished-at="2022-08-03T20:56:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi2 -->
+      </class> <!-- Selemvn.MavenP2.S2Test -->
+      <class name="Selemvn.MavenP2.STest">
+        <test-method signature="Browseratm()[pri:0, instance:Selemvn.MavenP2.STest@38c5cc4c]" started-at="2022-08-03T20:56:58 IST" name="Browseratm" finished-at="2022-08-03T20:56:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browseratm -->
+        <test-method signature="elementUi()[pri:0, instance:Selemvn.MavenP2.STest@38c5cc4c]" started-at="2022-08-03T20:56:58 IST" name="elementUi" finished-at="2022-08-03T20:56:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- Selemvn.MavenP2.STest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
